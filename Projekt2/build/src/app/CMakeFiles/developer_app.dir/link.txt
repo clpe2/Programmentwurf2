@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/developer_app.dir/link.d CMakeFiles/developer_app.dir/main.cpp.o -o developer_app  ../lib/libdeveloper_lib.a

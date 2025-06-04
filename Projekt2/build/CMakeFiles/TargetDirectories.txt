@@ -1,0 +1,13 @@
+/workspaces/Programmentwurf2/Projekt2/build/CMakeFiles/edit_cache.dir
+/workspaces/Programmentwurf2/Projekt2/build/CMakeFiles/rebuild_cache.dir
+/workspaces/Programmentwurf2/Projekt2/build/src/CMakeFiles/edit_cache.dir
+/workspaces/Programmentwurf2/Projekt2/build/src/CMakeFiles/rebuild_cache.dir
+/workspaces/Programmentwurf2/Projekt2/build/src/lib/CMakeFiles/developer_lib.dir
+/workspaces/Programmentwurf2/Projekt2/build/src/lib/CMakeFiles/edit_cache.dir
+/workspaces/Programmentwurf2/Projekt2/build/src/lib/CMakeFiles/rebuild_cache.dir
+/workspaces/Programmentwurf2/Projekt2/build/src/app/CMakeFiles/developer_app.dir
+/workspaces/Programmentwurf2/Projekt2/build/src/app/CMakeFiles/edit_cache.dir
+/workspaces/Programmentwurf2/Projekt2/build/src/app/CMakeFiles/rebuild_cache.dir
+/workspaces/Programmentwurf2/Projekt2/build/test/CMakeFiles/developer_test.dir
+/workspaces/Programmentwurf2/Projekt2/build/test/CMakeFiles/edit_cache.dir
+/workspaces/Programmentwurf2/Projekt2/build/test/CMakeFiles/rebuild_cache.dir

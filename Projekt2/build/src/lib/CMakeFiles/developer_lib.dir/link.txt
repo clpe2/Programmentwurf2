@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdeveloper_lib.a CMakeFiles/developer_lib.dir/developer.cpp.o CMakeFiles/developer_lib.dir/junior_developer.cpp.o CMakeFiles/developer_lib.dir/senior_developer.cpp.o
+/usr/bin/ranlib libdeveloper_lib.a
