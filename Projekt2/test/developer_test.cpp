@@ -2,7 +2,7 @@
  * @file developer_test.cpp
  * @brief Test file for Developer classes
  * 
- * This file contains tests for the Developer, JuniorDeveloper, and SeniorDeveloper classes.
+ * This file contains tests for the Developer, JuniorDeveloper, and SeniorDeveloper classes
  */
 
 #include "developer.hpp"

@@ -17,7 +17,7 @@ Developer::Developer(const std::string& name, const std::string& alias)
 }
 
 void Developer::drink_coffee() {
-    std::cout << "Ahhhh, I needed that coffee!!!" << std::endl;
+    std::cout << "Gotham never sleeps!" << std::endl;
 }
 
 void Developer::load_logo_from_file(const std::string& filename) {
