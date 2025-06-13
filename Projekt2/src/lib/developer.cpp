@@ -2,7 +2,7 @@
  * @file developer.cpp
  * @brief Implementation of the Developer class
  * 
- * This file contains the implementation of the Developer class methods.
+ * This file contains the implementation of the Developer class methods
  */
 
 #include "developer.hpp"

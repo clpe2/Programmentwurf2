@@ -15,6 +15,6 @@ JuniorDeveloper::JuniorDeveloper(const std::string& name, const std::string& ali
 void JuniorDeveloper::solve_problem() {
     std::cout << "Solving a problem:" << std::endl;
     std::cout << *this << std::endl;
-    std::cout << "Puh, that was tough" << std::endl;
+    std::cout << "Holy IT&T!" << std::endl;
     Developer::drink_coffee();
 }

@@ -15,6 +15,6 @@ SeniorDeveloper::SeniorDeveloper(const std::string& name, const std::string& ali
 void SeniorDeveloper::solve_problem() {
     std::cout << "Solving a problem:" << std::endl;
     std::cout << *this << std::endl;
-    std::cout << "Ha, that was EZ!" << std::endl;
+    std::cout << "Good grammar is essential, Robin." << std::endl;
     Developer::drink_coffee();
 }

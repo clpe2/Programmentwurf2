@@ -3,7 +3,7 @@
  * @brief Header file for the JuniorDeveloper class
  * 
  * This file contains the declaration of the JuniorDeveloper class which
- * inherits from the Developer base class.
+ * inherits from the Developer base class
  */
 
 #ifndef JUNIOR_DEVELOPER_HPP
@@ -31,7 +31,7 @@ public:
      * @brief Implementation of the solve_problem method
      * 
      * Outputs the developer information and a junior-specific message,
-     * then calls the drink_coffee method.
+     * then calls the drink_coffee method
      */
     void solve_problem() override;
 };

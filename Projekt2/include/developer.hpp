@@ -3,7 +3,7 @@
  * @brief Header file for the Developer class
  * 
  * This file contains the declaration of the Developer class which serves
- * as a base class for JuniorDeveloper and SeniorDeveloper.
+ * as a base class for JuniorDeveloper and SeniorDeveloper
  */
 
 #ifndef DEVELOPER_HPP
@@ -18,7 +18,7 @@
  * @brief Base class for different types of developers
  * 
  * The Developer class provides common functionality for all developer types
- * including name, alias, and logo management.
+ * including name, alias and logo management
  */
 class Developer {
 public:

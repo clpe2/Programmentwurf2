@@ -22,8 +22,8 @@ int main() {
     std::vector<std::shared_ptr<Developer>> developers;
     
     // Instantiate at least one SeniorDeveloper and one JuniorDeveloper
-    auto senior = std::make_shared<SeniorDeveloper>("Diana Prince", "Wonder Woman");
-    auto junior = std::make_shared<JuniorDeveloper>("Peter Parker", "Spiderman");
+    auto senior = std::make_shared<SeniorDeveloper>("Bruce Wayne", "Batman");
+    auto junior = std::make_shared<JuniorDeveloper>("Tim Drake", "Red Robin");
     
     // Try to load logos for developers
     try {
